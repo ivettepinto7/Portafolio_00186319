@@ -1,0 +1,31 @@
+Algoritmo 1:
+s= pila
+
+if(empty(s))
+{
+	La pila esta vacia
+	return -1;
+}else{
+
+pop(s)
+
+if(empty(s))
+{
+	La pila solo tiene un elemento
+	return -1
+}else{
+return pop(s)
+}
+}
+
+
+Algoritmo 3:
+s= pila
+if(empty(s)) {
+	La pila esta vacia
+}else{
+	while(!empty(s)){
+		ultimoElemento = pop(s)
+	}
+El ultimo elemento es: <ultimoElemento>
+}
