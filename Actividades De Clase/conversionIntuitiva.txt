@@ -1,0 +1,14 @@
+A-B/(C*D$E)
+A postfija:
+A-B/(C*DE$)
+A-B/(CDE$*)
+A-B(CDE$*)/
+AB-(CDE$*)/
+AB-CDE$*/
+
+((A+B)*C-(D-E))$(F+G)
+((AB+)*C-(DE-))$(FG+)
+((AB+)C*-(DE-))$(FG+)
+((AB+)C*(DE-)-)$(FG+)
+((AB+)C*(DE-)-)(FG+)$
+AB+C*DE--FG+$
