@@ -1,0 +1,19 @@
+Arbol 2:
+Raiz: nodo A
+Ramas: B, C, D, E, F, H
+Hojas: G, I, J, K, L
+Nivel 0: Nodo A.
+Nivel 1: Nodos B.
+Nivel 2: Nodos C, D.
+Nivel 3: Nodos E, F, G, H.
+Nivel 4: Nodos I, J, K, L.
+Profundidad 4.
+Peso 12.
+Orden 2.
+Sub-arbol izquierdo 
+B->C->E->I
+No es lleno.
+No es perfecto.
+Recorrido en Pre-orden: A, B, C, E, I, F, J, D, G, H, E, L.
+Recorrido en Post-orden: I, E, J, F, C, G, K, L, H, D, B, A.
+Recorrido en In-orden: I, E, C, J, F, B, G, D, K, L, H, A.
